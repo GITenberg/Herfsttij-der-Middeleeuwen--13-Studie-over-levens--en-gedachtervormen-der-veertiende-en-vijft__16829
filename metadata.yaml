@@ -1,0 +1,58 @@
+_repo: Herfsttij-der-Middeleeuwen--13-Studie-over-levens--en-gedachtervormen-der-veertiende-en-vijft__16829
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Huizinga, Johan
+    birthdate: 1872
+    deathdate: 1945
+    gutenberg_agent_id: '6957'
+    url: http://www.gutenberg.org/2009/agents/6957
+    wikipedia: http://en.wikipedia.org/wiki/Johan_Huizinga
+description: "The Autumn of the Middle Ages, or The Waning of the Middle Ages (published\
+  \ in 1919 as Herfsttij der Middeleeuwen and translated into English in 1924), is\
+  \ the best-known work by the Dutch historian Johan Huizinga.\nIts subtitle is: \"\
+  A study of the forms of life, thought and art in France and the Netherlands in the\
+  \ fourteenth and fifteenth centuries\".\nIn the book, Huizinga presents the idea\
+  \ that the exaggerated formality and romanticism of late medieval court society\
+  \ was a defense mechanism against the constantly increasing violence and brutality\
+  \ of general society. He saw the period as one of pessimism, cultural exhaustion,\
+  \ and nostalgia, rather than of rebirth and optimism.\nHuizinga's work later came\
+  \ under criticism, especially for relying too heavily on evidence from the rather\
+  \ exceptional case of the Burgundian court. A new English translation of the book\
+  \ was published in 1996 because of perceived deficiencies in the original translation,\
+  \ although the new translation itself was criticized for being based on a German\
+  \ translation of the original Dutch book.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16829'
+  wikidata: Q2599259
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Netherlands -- Social life and customs'
+- !lcsh 'Middle Ages'
+- !lcsh 'France -- Social life and customs'
+- !lcsh 'Civilization, Medieval'
+- !lcc 'CB'
+title: "Herfsttij der Middeleeuwen\r\nStudie over levens- en gedachtervormen der veertiende\
+  \ en vijftiende eeuw in Frankrijk en de Nederlanden"
+url: http://www.gutenberg.org/ebooks/16829
+wikipedia:
+- https://fi.wikipedia.org/wiki/Keskiajan_syksy
+- https://nl.wikipedia.org/wiki/Herfsttij_der_Middeleeuwen
+- https://pt.wikipedia.org/wiki/O_Outono_da_Idade_M%C3%A9dia
+- https://pl.wikipedia.org/wiki/Jesie%C5%84_%C5%9Bredniowiecza
+- https://es.wikipedia.org/wiki/El_oto%C3%B1o_de_la_Edad_Media
+- https://en.wikipedia.org/wiki/The_Autumn_of_the_Middle_Ages
+- https://it.wikipedia.org/wiki/Autunno_del_Medioevo
+- https://uk.wikipedia.org/wiki/%D0%9E%D1%81%D1%96%D0%BD%D1%8C_%D0%A1%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D1%8C%D0%BE%D0%B2%D1%96%D1%87%D1%87%D1%8F
+- https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D0%B5%D0%BD%D1%8C_%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B2%D0%B5%D0%BA%D0%BE%D0%B2%D1%8C%D1%8F
+- https://pl.wikiquote.org/wiki/Jesie%C5%84_%C5%9Bredniowiecza
+- https://ko.wikipedia.org/wiki/%EC%A4%91%EC%84%B8%EC%9D%98_%EA%B0%80%EC%9D%84
+- https://he.wikipedia.org/wiki/%D7%A1%D7%AA%D7%99%D7%95_%D7%99%D7%9E%D7%99_%D7%94%D7%91%D7%99%D7%A0%D7%99%D7%99%D7%9D
